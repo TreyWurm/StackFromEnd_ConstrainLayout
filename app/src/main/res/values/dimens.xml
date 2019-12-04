@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text sizes -->
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="medium_text_size">14sp</dimen>
+    <dimen name="large_text_size">16sp</dimen>
+    <dimen name="very_large_text_size">18sp</dimen>
+    <dimen name="huge_text_size">20sp</dimen>
+    <dimen name="gigantic_text_size">24sp</dimen>
+    <dimen name="double_text_size">28sp</dimen>
+
+    <!-- Image sizes -->
+    <dimen name="uploaded_image_size">120dp</dimen>
+    <dimen name="circular_image_size">42dp</dimen>
+    <dimen name="circular_image_feed">42dp</dimen>
+    <dimen name="map_entity_image_size">32dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+    <dimen name="city_logo_image_size">50dp</dimen>
+    <dimen name="search_image_size">72dp</dimen>
+
+
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="double_toolbar_height">112dp</dimen>
+    <dimen name="horizontal_scroll_height">90dp</dimen>
+    <dimen name="horizontal_scroll_image_size">36dp</dimen>
+    <dimen name="vertical_scroll_image_size">130dp</dimen>
+    <dimen name="maps_entity_image_size">64dp</dimen>
+    <dimen name="shadow_height">4dp</dimen>
+    <dimen name="quick_access_bar_min_height">90dp</dimen>
+
+
+    <!-- Margins -->
+    <dimen name="margin_quad">64dp</dimen>
+    <dimen name="margin_double">32dp</dimen>
+    <dimen name="margin_one_and_half">24dp</dimen>
+    <dimen name="margen_one_and_quarter">20dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_half">8dp</dimen>
+    <dimen name="margin_quarter">4dp</dimen>
+    <dimen name="margin_with_icon_padding">6dp</dimen>
+    <dimen name="margin_line_spacing_extra">4dp</dimen>
+
+
+    <!-- Paddings -->
+    <dimen name="padding_double">32dp</dimen>
+    <dimen name="padding_one_and_half">24dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_three_quarter">12dp</dimen>
+    <dimen name="padding_half">8dp</dimen>
+    <dimen name="padding_quarter">4dp</dimen>
+    <dimen name="padding_icon">10dp</dimen>
+
+    <!-- Icon sizes -->
+    <dimen name="icon_size_small">16dp</dimen>
+    <dimen name="icon_size_medium">30dp</dimen>
+    <dimen name="icon_size">20dp</dimen>
+    <dimen name="icon_size_with_padding">40dp</dimen>
+    <dimen name="icon_size_large">48dp</dimen>
+    <dimen name="icon_size_connect">56dp</dimen>
+    <dimen name="icon_size_onboarding">70dp</dimen>
+    <dimen name="icon_size_quick_access_buttons">28dp</dimen>
+    <dimen name="icon_size_home_change_city">30dp</dimen>
+    <dimen name="circular_progress_placeholder_stroke_width">5dp</dimen>
+    <dimen name="circular_progress_placeholder_center_radius">15dp</dimen>
+
+    <!-- Divider -->
+    <dimen name="divider_height">1dp</dimen>
+
+    <!-- Progressbar -->
+    <dimen name="custom_progressbar_height">8dp</dimen>
+
+    <!-- ResolveInfo -->
+    <dimen name="max_height_pick_app_dialog">200dp</dimen>
+    <dimen name="resolve_info_width">60dp</dimen>
+
+    <!-- Profile -->
+    <dimen name="profile_item_min_height">70dp</dimen>
+
+</resources>

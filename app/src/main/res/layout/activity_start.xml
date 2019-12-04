@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/tv_bugged"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_normal"
+        android:background="@color/transparent_grey_40"
+        android:padding="@dimen/padding_normal"
+        android:text="Bugged Version"
+        />
+
+    <TextView
+        android:id="@+id/tv_working"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_normal"
+        android:background="@color/transparent_grey_40"
+        android:padding="@dimen/padding_normal"
+        android:text="Working Version"
+        />
+</LinearLayout>
